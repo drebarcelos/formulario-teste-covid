@@ -1,0 +1,22 @@
+.faq-title {
+    color: #008b97;
+    padding-bottom: .5em;
+    border-bottom: 1px solid #008b97;
+    font-weight: bold;
+    animation-name: fade;
+    animation-duration: 500ms;
+}
+
+.faq-container {
+    border-top: 1px solid #008b97;
+}
+
+.faq-container h2 {
+    color: #00636b;
+}
+
+.faq-container div {
+    padding-top: 1em; 
+    animation-name: fade;
+    animation-duration: 900ms;  
+}
