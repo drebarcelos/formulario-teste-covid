@@ -1,0 +1,14 @@
+.vacina-title {
+    color: #008b97;
+    padding-bottom: .5em;
+    border-bottom: 1px solid #008b97;
+    font-weight: bold;
+    animation-name: fade;
+    animation-duration: 500ms;
+}
+
+.margem {
+    margin-top: 30px;
+    animation-name: fade;
+    animation-duration: 500ms;
+}
